@@ -1,5 +1,3 @@
-#Amazon Clone
-
 🛒 Amazon Clone – Functional E-Commerce Website
 
 This project is a functional Amazon-style e-commerce website built using HTML, CSS, and JavaScript. It includes dynamic product listing, add-to-cart functionality, and real-time cart updates to simulate a basic online shopping experience.
